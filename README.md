@@ -28,3 +28,9 @@ samples, guidance on mobile development, and a full API reference.
 ![image](https://github.com/CobosTrevinoMartinGabriel/p11-screen2screen-6i/assets/143775254/451ff455-dcb4-4263-bbef-ab4c340e3fbd)
 ![image](https://github.com/CobosTrevinoMartinGabriel/p11-screen2screen-6i/assets/143775254/45bb6591-70b4-4a49-8055-4365fe1b260a)
 
+## Resultado actualizado
+![image](https://github.com/CobosTrevinoMartinGabriel/p11-screen2screen-6i/assets/143775254/c13de2b7-769d-4eeb-9878-8b9aa0c39fa4)
+![image](https://github.com/CobosTrevinoMartinGabriel/p11-screen2screen-6i/assets/143775254/86818f19-e7ce-4e1b-bd7c-04b2b691f79d)
+
+
+
